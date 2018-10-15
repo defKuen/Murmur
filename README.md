@@ -17,8 +17,8 @@ Progress: 150 - 202/242 pages
 B.
 
 1. Decesion Tree Review(3/12)
-2. Regression and classification(4/12) 
-2-a. A funny story behind original regrssion/reforcement learning and now.
+2. Regression and classification(4/12)  
+A funny story behind original regrssion/reforcement learning and now.
 
 Progress: 3rd / 5th courses
 > Udacity 2016 Machine Learning Engineer Nanodegree Course
